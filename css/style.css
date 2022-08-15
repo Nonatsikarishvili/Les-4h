@@ -1,0 +1,25 @@
+/*start-navigation*/
+.logo-1 {
+
+	height: 50px;
+	width: 100px;
+}
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+}
+.navigation{
+	display: inline-block;
+	margin-top: 35px;
+}
+.nav-1{
+	color: #3D58A6;
+	font-size: 22px;
+}
+.nav-1-1{
+	display: inline-block;
+	margin-right: 22px;
+}
+.active{
+	color: #EE4036;
+}
